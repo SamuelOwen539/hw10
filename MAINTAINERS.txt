@@ -30,6 +30,7 @@ Ajax system
 Base system
 - Damien Tournoud 'DamZ' https://www.drupal.org/u/damien-tournoud
 - Moshe Weitzman 'moshe weitzman' https://www.drupal.org/u/moshe-weitzman
+- Samuel Owen
 
 Batch system
 - Yves Chedemois 'yched' https://www.drupal.org/u/yched
